@@ -1,0 +1,1 @@
+{"rustc":18294767808239569311,"features":"[]","target":10429514197457385088,"profile":2574335274271406459,"path":1034409996699956288,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\rayon-core-102f740533e46626\\dep-build-script-build_script_build-102f740533e46626"}}],"rustflags":["-Ctarget-feature=+crt-static"],"metadata":14590378261418540923}

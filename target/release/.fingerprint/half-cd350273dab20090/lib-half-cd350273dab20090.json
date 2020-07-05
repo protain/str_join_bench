@@ -1,0 +1,1 @@
+{"rustc":18294767808239569311,"features":"[]","target":16329937928451606554,"profile":2574335274271406459,"path":17352358676706331592,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\half-cd350273dab20090\\dep-lib-half-cd350273dab20090"}}],"rustflags":["-Ctarget-feature=+crt-static"],"metadata":576232026459312637}
