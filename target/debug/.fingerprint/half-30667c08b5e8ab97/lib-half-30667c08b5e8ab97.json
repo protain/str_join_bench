@@ -1,1 +1,0 @@
-{"rustc":18294767808239569311,"features":"[]","target":16329937928451606554,"profile":9935990280773120926,"path":17352358676706331592,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\half-30667c08b5e8ab97\\dep-lib-half-30667c08b5e8ab97"}}],"rustflags":["-Ctarget-feature=+crt-static"],"metadata":576232026459312637}
